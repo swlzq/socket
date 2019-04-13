@@ -1,5 +1,5 @@
 # socket
-Transfer image by python socket and sockeserver
+Create send thread and receive thread in client.
 ## files description
 `server.py` server side</br>
 `client.py` client side</br>
